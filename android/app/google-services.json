@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209361436733",
+    "project_id": "majova-agriworks",
+    "storage_bucket": "majova-agriworks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209361436733:android:b0443d53c1433751e52a54",
+        "android_client_info": {
+          "package_name": "com.majova.agriworks.majova_agriworks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAadz7LaFjGcAZtUnVIEWfA2OHK_TRfz1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
